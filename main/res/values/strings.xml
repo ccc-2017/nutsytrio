@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TsunamiWarn</string>
+    <string name="buttonDescr1">Press button to load XML file</string>
+    <string name="buttonNameOK">OK</string>
+</resources>
